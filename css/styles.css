@@ -1,0 +1,16 @@
+#generatedLetter {
+  display: none;
+  border: 1px solid black;
+  padding: 5px;
+  height: 900px;
+}
+
+#generatedLetter img {
+  margin-bottom: 50px;
+}
+
+#paragraphMargin {
+  margin: 30px 0;
+}
+
+#styleLetter
